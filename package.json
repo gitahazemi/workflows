@@ -1,0 +1,10 @@
+{
+  "name": "workflowsgita",
+  "version": "0.0.1",
+  "description": "A project to showcase workflowsgita",
+  "repository": {
+    "type": "git",
+    "url": "?.git"
+  },
+  "author": "Gita Hazemi"
+}
